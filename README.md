@@ -14,6 +14,11 @@ Day 2:
 - Popup → content script messaging working
 - First message successfully received by YouTube
 
+Day 3:
+-Webcam permission blocker fixed
+-Imaged successfuly displayed on a webpage(camera.html)
+-Moved the camera feature from temporary popup.html to a persistent camera.html file
+
 ## Architecture
 
 Webcam
